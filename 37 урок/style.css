@@ -1,0 +1,14 @@
+.text{
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+textarea{
+    resize: vertical;
+}
+.button{
+    display: block;
+    cursor: pointer;
+}
+.form{
+    border: 5px solid black;
+}

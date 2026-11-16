@@ -1,0 +1,13 @@
+ html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: "OpenSans" , sans-serif;
+    background-color: #c1c1c1 ;
+}
+.container{
+  max-width: 1330px; /* или ширина по вашему макету */
+  margin: 0 auto;    /* центрирует блок по центру экрана */
+  padding: 0 15px;   /* внутренние отступы безопасности по бокам */
+  width: 100%;
+}

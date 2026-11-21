@@ -1,0 +1,12 @@
+ html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: "OpenSans" , sans-serif;
+    background-color: #c1c1c1 ;
+}
+.container{
+ max-width: 1330px;
+ height: 50px;
+ background-color: black;
+}

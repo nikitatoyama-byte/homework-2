@@ -1,0 +1,25 @@
+.advantages__list{
+     display: grid;                        
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px; 
+      
+}
+.advantages__title{
+    padding-bottom: 70px;
+font-weight: 900;
+font-size: 42px;
+color: #111;
+}
+.advantages__content{
+    display: flex;
+    align-items: center;
+   flex-direction: column;
+   text-align: center;
+   padding: 40px 20px;
+ box-shadow: 0 4px 41px 0 rgba(0, 0, 0, 0.05);
+background: #fff;
+}
+.advantages__text{
+  max-width: 220px;
+  margin: 0;             
+}
